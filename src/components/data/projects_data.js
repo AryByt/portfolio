@@ -30,7 +30,7 @@ const data_projects = [
   {
     name: 'JeffHandyman',
     image: jeff,
-    deployed_url: 'jeff-handyman.netlify.app',
+    deployed_url: 'https://jeff-handyman.netlify.app/',
     github_url: 'https://github.com/AryByt/Jafar-Handyman',
     category: ['node.js', 'react'],
   },

@@ -22,17 +22,17 @@ const skills = [
   {
     icon: api,
     title: 'API Development',
-    about: 'I can develop robust REST API using django-rest-api ',
+    about: 'I can develop robust REST API using Ruby on Rails RAILS and EXPRESS ',
   },
   {
     icon: algo,
     title: 'Competitive Coder',
-    about: 'a daily problem solver in HackerRank and Leetcode',
+    about: 'a daily problem solver, participate in daily coding algos and challenges ',
   },
   {
     icon: puzzle,
     title: 'UI/UX designer',
-    about: 'minimalistic user interface designer using figma and  framer',
+    about: 'minimalistic user interface designer using figma and some knowledge  of framer',
   },
 ];
 

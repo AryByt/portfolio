@@ -8,6 +8,16 @@ const languages = [
   },
   {
     icon: react,
+    name: 'Ruby',
+    level: '60',
+  },
+  {
+    icon: react,
+    name: 'Ruby on Rails',
+    level: '60',
+  },
+  {
+    icon: react,
     name: 'HTML',
     level: '80',
   },

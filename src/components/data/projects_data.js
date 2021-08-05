@@ -10,7 +10,7 @@ const data_projects = [
     image: pc,
     deployed_url: 'https://pc-culture.netlify.app/',
     github_url: 'https://github.com/AryByt/PC-Culture',
-    category: ['react.js', 'mongoDB', 'node.js'],
+    category: ['react.js', 'mongoDB'],
   },
 
   {
@@ -18,14 +18,14 @@ const data_projects = [
     image: vinyl,
     deployed_url: 'https://vinly-app.netlify.app/',
     github_url: 'https://github.com/AryByt/Vinly',
-    category: ['node.js', 'rails', 'react.js'],
+    category: ['ruby on rails', 'react.js'],
   },
   {
     name: 'Are-Ya-Da-Football',
     image: football,
     deployed_url: 'https://sleepy-keller-6d7a40.netlify.app/',
     github_url: 'https://github.com/AryByt/Are-Ya-Da-Leagues',
-    category: ['tailwind', 'react'],
+    category: ['tailwind', 'react', 'node.js'],
   },
   {
     name: 'JeffHandyman',
@@ -39,7 +39,7 @@ const data_projects = [
     image: weather,
     deployed_url: 'https://arybyt.github.io/Are-Ya-Da-Weather/',
     github_url: 'https://github.com/AryByt/Are-Ya-Da-Weather',
-    category: ['vanilla'],
+    category: ['vanilla', 'node.js'],
   },
 ];
 

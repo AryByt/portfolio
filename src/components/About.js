@@ -34,6 +34,12 @@ const skills = [
     title: 'UI/UX designer',
     about: 'minimalistic user interface designer using figma and some knowledge  of framer',
   },
+  {
+    icon: backend,
+    title: 'Full Stack Applications',
+    about:
+      'I enjoy making full stack application with full-CRUD functionality, I enjoy the challenge that comes from it and growing from it',
+  },
 ];
 
 const About = () => {
@@ -65,7 +71,7 @@ const About = () => {
     >
       <h6 className="about__intro">
         I describe myself as someone who's persistant, a quick learner and loves problem solving by
-        using simple and scalable solutions.
+        using simple and scalable solutions. I love to code and I enjoy working with people.
       </h6>
       <div className="container about__container">
         <h6 className="about__heading">What I offer</h6>

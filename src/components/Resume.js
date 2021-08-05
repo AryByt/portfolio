@@ -41,7 +41,7 @@ const Resume = () => {
             </p>
             <p className="resume-card__details">
               I recently went through a coding Bootcamp at General Assembly, and have not been able
-              to stop coding ever since.
+              to stop coding ever since
             </p>
           </div>
         </div>

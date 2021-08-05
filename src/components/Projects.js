@@ -62,10 +62,10 @@ const Projects = () => {
           MongoDB
         </div>
         <div
-          className={active === 'Rails' && 'projects__navbar-active'}
-          onClick={() => handleFilterCategory('Rails')}
+          className={active === 'ruby on rails' && 'projects__navbar-active'}
+          onClick={() => handleFilterCategory('ruby on rails')}
         >
-          Rails
+          Ruby on Rails
         </div>
 
         <div

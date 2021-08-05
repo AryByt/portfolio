@@ -29,28 +29,28 @@ const languages = [
   {
     icon: react,
     name: 'Express',
-    level: '70',
+    level: '75',
   },
   {
     icon: react,
     name: 'mongoDB',
-    level: '70',
+    level: '75',
   },
   {
     icon: react,
     name: 'Node',
-    level: '50',
+    level: '70',
   },
 
   {
     icon: react,
     name: 'SQL',
-    level: '40',
+    level: '50',
   },
   {
     icon: react,
     name: 'CSS',
-    level: '80',
+    level: '85',
   },
   {
     icon: react,

@@ -12,7 +12,6 @@ const data_projects = [
     github_url: 'https://github.com/AryByt/PC-Culture',
     category: ['react.js', 'mongoDB'],
   },
-
   {
     name: 'Vinyl',
     image: vinyl,
@@ -25,14 +24,14 @@ const data_projects = [
     image: football,
     deployed_url: 'https://sleepy-keller-6d7a40.netlify.app/',
     github_url: 'https://github.com/AryByt/Are-Ya-Da-Leagues',
-    category: ['tailwind', 'react', 'node.js'],
+    category: ['react.js', 'node.js'],
   },
   {
     name: 'JeffHandyman',
     image: jeff,
     deployed_url: 'https://jeff-handyman.netlify.app/',
     github_url: 'https://github.com/AryByt/Jafar-Handyman',
-    category: ['react', 'tailwind'],
+    category: ['react.js', 'node.js'],
   },
   {
     name: 'Are-Ya-Da-Weather',

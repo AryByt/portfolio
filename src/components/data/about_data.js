@@ -1,5 +1,4 @@
 import React from 'react';
-
 import api from '../../assets/icons/api.svg';
 import algo from '../../assets/icons/algo.svg';
 import computer from '../../assets/icons/computer.svg';
@@ -12,7 +11,7 @@ const skills = [
     about: [
       'I can build applications using',
       <strong key={1}> HTML CSS Ruby and React.js</strong>,
-      'while utilizing Frameworks such as Tailwind and Bootstrap for responsive design',
+      ' while utilizing Frameworks such as Tailwind and Bootstrap for responsive design',
     ],
   },
   {
@@ -21,7 +20,7 @@ const skills = [
     about: [
       'Handle database, server, api using',
       <strong key={1}> mongoDB Express PQL and postgreSQL</strong>,
-      'to build full-stack applications',
+      ' to build full-stack applications',
     ],
   },
   {

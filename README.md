@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 My Portfolio Project!
 
-### Deployment
+## Deployment
+### Deployed to Netlify!
 
 The deployed link: [https://www.aryabayati.com](https://www.aryabayati.com)

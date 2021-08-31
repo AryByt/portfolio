@@ -6,7 +6,7 @@ import { FaGithub } from 'react-icons/fa';
 import { HiLocationMarker } from 'react-icons/hi';
 import { FaFileDownload } from 'react-icons/fa';
 import arya from '../assets/icons/ARYA.jpeg';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/AryaBayatiResume.pdf';
 import { motion } from 'framer-motion';
 
 const Sidebar = () => {
@@ -35,7 +35,7 @@ const Sidebar = () => {
         Arya<span>Bayati</span>
       </div>
       <div className="sidebar__item sidebar__title">Software Engineer</div>
-      <a href={resume} download="resume.pdf">
+      <a href={resume} download="AryaBayatiResume.pdf">
         <div className="sidebar__item sidebar__resume">
           <FaFileDownload className="sidebar__icon" />
           Download Resume

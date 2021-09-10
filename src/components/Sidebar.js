@@ -1,12 +1,9 @@
 import React from 'react';
-
-import { AiFillFacebook } from 'react-icons/ai';
-import { FaInstagramSquare } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { HiLocationMarker } from 'react-icons/hi';
 import { FaFileDownload } from 'react-icons/fa';
 import arya from '../assets/icons/ARYA.jpeg';
-import resume from '../assets/AryaBayatiResume.pdf';
+import resume from '../assets/Arya Bayati-Resume.pdf';
 import { motion } from 'framer-motion';
 
 const Sidebar = () => {
@@ -35,20 +32,12 @@ const Sidebar = () => {
         Arya<span>Bayati</span>
       </div>
       <div className="sidebar__item sidebar__title">Software Engineer</div>
-      <a href={resume} download="AryaBayatiResume.pdf">
+      <a href={resume} download="Arya Bayati-Resume.pdf">
         <div className="sidebar__item sidebar__resume">
           <FaFileDownload className="sidebar__icon" />
           Download Resume
         </div>
       </a>
-      <figure className="sidebar__social-icons my-2">
-        <a href="!#">
-          <AiFillFacebook className="sidebar__icon mr-3" />
-        </a>
-        <a href="https://www.instagram.com/arya_bayati/?hl=en" target="_blank" rel=" noreferrer">
-          <FaInstagramSquare className="sidebar__icon" />
-        </a>
-      </figure>
       <div className="sidebar__contact">
         <div className="sidebar__item sidebar__github">
           <a href="https://github.com/AryByt" target="_blank" rel=" noreferrer">

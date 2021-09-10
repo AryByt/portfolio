@@ -35,25 +35,27 @@ const Resume = () => {
         <div className="col-lg-6 resume-card">
           <h4 className="resume-card__heading">Education</h4>
           <div className="resume-card__body">
-            <h5 className="resume-card__title">Software Engineering</h5>
+            General Assembly, Software Engineering Immersive Certificate of Completion Austin
+            <p></p>
             <p className="resume-card__name">
-              General Assembly Software Engineering Bootcamp (2021-2021)
-            </p>
-            <p className="resume-card__details">
-              I recently went through a coding Bootcamp at General Assembly, and have not been able
-              to stop coding ever since
+              <p>Community College, Computer Science major</p>
+              <span>McCallum High School, Diploma</span>
             </p>
           </div>
         </div>
         <div className="col-lg-6 resume-card">
           <h4 className="resume-card__heading">Experience</h4>
           <div className="resume-card__body">
-            <h5 className="resume-card__title">Fellow</h5>
-            <p className="resume-card__name">Genera Assembly (2021)</p>
+            <p className="resume-card__name">
+              General Assembly Software Engineering Fellow 04/2021 – 07/2021
+            </p>
             <p className="resume-card__details">
-              As part of General Assembly I learned to code, made many full-CRUD applications using
-              React,mongoDB,Express,Ruby,Ruby on Rails,SQL,postgreSQL,and work in team environments
-              and enjoyed and am still enjoying the learning process
+              Created fully responsive front end web applications using HTML, CSS, Javascript,
+              React, and third-party API integrations.Developed full-stack applications and designed
+              REST APIs with full CRUD functionality using React, Javascript, Node.js, Express,
+              Sequelize, PostgreSQL, and Ruby on Rails.Managed team-based projects using agile
+              workflow, Git version control and Github Applied knowledge of key languages and
+              computer science.
             </p>
           </div>
         </div>

@@ -9,7 +9,8 @@ const data_projects = [
   {
     name: 'Vinyl',
     image: vinyl,
-    description: 'Looking for Vinyls? welcome! buy them sell them or just search around!',
+    description:
+      'Built a full-stack web app to allow users to view, buy, sell and add Vinyl records.Utilized: React, Ruby, Ruby on Rails,HTML,SQL and Tailwind ',
     deployed_url: 'https://vinly-app.netlify.app/',
     github_url: 'https://github.com/AryByt/Vinly',
     category: ['ruby on rails', 'react.js'],
@@ -17,7 +18,8 @@ const data_projects = [
   {
     name: 'PC-parts',
     image: pc,
-    description: 'A group project, for anyone looking to purchase pc-parts!',
+    description:
+      'Built a full-stack web app alongside three other  developers to allow users to view, buy, sell and add computer parts.Utilized: React, MongoDB, Express, HTML and Tailwind.',
     deployed_url: 'https://pc-culture.netlify.app/',
     github_url: 'https://github.com/AryByt/PC-Culture',
     category: ['react.js', 'mongoDB'],
@@ -26,7 +28,7 @@ const data_projects = [
     name: 'JeffHandyman',
     image: jeff,
     description:
-      'Website made for my father, this application has all of the details about the work he does and has done and the services that he provides customers with!',
+      'Built a full-stack web app made for my father, this application has all of the details about the work he does and has done and the services that he provides customers with! Utilized:React, Tailwind ',
     deployed_url: 'https://jeff-handyman.netlify.app/',
     github_url: 'https://github.com/AryByt/Jafar-Handyman',
     category: ['react.js', 'node.js'],
@@ -41,9 +43,10 @@ const data_projects = [
     category: ['react.js', 'node.js'],
   },
   {
-    name: 'Are-Ya-Da-Football',
+    name: 'Are-Ya-Da-Leagues',
     image: football,
-    description: 'Add your teams and discuss everything soccer! ',
+    description:
+      'Built a full-stack web app to allow users to view, and add their favorite soccer teams and discuss everything soccer related.',
     deployed_url: 'https://sleepy-keller-6d7a40.netlify.app/',
     github_url: 'https://github.com/AryByt/Are-Ya-Da-Leagues',
     category: ['react.js', 'node.js'],
@@ -52,7 +55,7 @@ const data_projects = [
     name: 'Are-Ya-Da-Weather',
     image: weather,
     description:
-      'My first ever application. Users are able to get the weather information that they need!',
+      'This web app allows users to view and get the weather information in every city that is searched for. Utilized: Javascript, HTML/CSS',
     deployed_url: 'https://arybyt.github.io/Are-Ya-Da-Weather/',
     github_url: 'https://github.com/AryByt/Are-Ya-Da-Weather',
     category: ['vanilla', 'node.js'],

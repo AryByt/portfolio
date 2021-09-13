@@ -1,7 +1,7 @@
 # Arya' portfolio
 My Portfolio Project!
 
-##Figma 
+## Figma 
  I utilized Figma to designed my porfolio website.
     _It took 3 hours to design everything_
     
